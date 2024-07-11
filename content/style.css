@@ -1,9 +1,29 @@
+/* Color Theme Swatches in Hex */
+.color-theme_image_2024-07-11_031508322-1-hex {
+  color: #3b4443;
+}
+.color-theme_image_2024-07-11_031508322-2-hex {
+  color: #b3bcbb;
+}
+.color-theme_image_2024-07-11_031508322-3-hex {
+  color: #7d948e;
+}
+.color-theme_image_2024-07-11_031508322-4-hex {
+  color: #eaafa9;
+}
+.color-theme_image_2024-07-11_031508322-5-hex {
+  color: #efd0ce;
+}
+.color-theme_image_2024-07-11_031508322-6-hex {
+  color: #706545;
+}
+
 html {
   font-family: Arial, Helvetica, sans-serif;
   box-sizing: border-box;
 }
 body {
-  background-color: #6c72d9;
+  background-color: #7d948e;
 }
 svg {
   width: 25px;
@@ -11,7 +31,7 @@ svg {
 header {
   width: 25%;
   float: left;
-  background-color: #4e4ad9;
+  background-color: #3b4443;
   height: 100%;
 }
 .media > ul {
@@ -19,12 +39,12 @@ header {
   display: flex;
   justify-content: space-between;
 }
-.nav > a {
+a {
   text-decoration: none;
 }
-.nav > a:visited {
+a:visited {
   text-decoration: none;
 }
-.nav > a:hover {
+a:hover {
   text-decoration: none;
 }

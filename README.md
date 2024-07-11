@@ -4,12 +4,15 @@
 
 This is a repository for my personal website to showcase my skills and experiences.
 
-## Color Reference
+## 🎨 Color Reference
+
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
-| Stary Night    | ![#3B4443](https://via.placeholder.com/10/3B4443?text=+) `#3B4443` |
-| Pale Grey      | ![#B3BCBB](https://via.placeholder.com/10/B3BCBB?text=+) `#B3BCBB` |
-| Van Gogh       | ![#7D948E](https://via.placeholder.com/10/7D948E?text=+) `#7D948E` |
-| Bunny Slippers | ![#EFD0CE](https://via.placeholder.com/10/EFD0CE?text=+) `#EFD0CE` |
-| Mary kay       | ![#EAAFA9](https://via.placeholder.com/10/EAAFA9?text=+) `#EAAFA9` |
-| Dirty Martini  | ![#706545](https://via.placeholder.com/10/706545?text=+) `#706545` |
+| Navy           | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#0a192f` |
+| Light Navy     | ![#112240](https://via.placeholder.com/10/0a192f?text=+) `#112240` |
+| Lightest Navy  | ![#233554](https://via.placeholder.com/10/303C55?text=+) `#233554` |
+| Slate          | ![#8892b0](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
+| Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
+| Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
+| White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
+| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
