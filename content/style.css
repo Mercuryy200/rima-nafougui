@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /* Color Theme Swatches in Hex */
 .color-theme_image_2024-07-11_031508322-1-hex {
   color: #3b4443;
@@ -37,14 +41,10 @@ header {
 .media > ul {
   list-style: none;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
-a {
-  text-decoration: none;
-}
-a:visited {
-  text-decoration: none;
-}
+a,
+a:visited,
 a:hover {
   text-decoration: none;
 }
