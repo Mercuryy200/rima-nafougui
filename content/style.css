@@ -23,25 +23,23 @@
 }
 
 html {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Montserrat", sans-serif;
   box-sizing: border-box;
 }
 body {
-  background-color: #7d948e;
 }
 svg {
   width: 25px;
 }
 header {
-  width: 25%;
   float: left;
-  background-color: #3b4443;
   height: 100%;
 }
 .media > ul {
   list-style: none;
   display: flex;
   justify-content: space-around;
+  width: 25%;
 }
 a,
 a:visited,
