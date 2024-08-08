@@ -1,16 +1,15 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-<<<<<<< HEAD
   content: ["./src/**/*.{html,js}"],
-=======
-  content: ["./content/**/*.{html,js}"],
->>>>>>> 7e772866067ea91492b9cedf3dbe931fcb9ae05b
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        "dirty-white": "#F8F3EA",
+        "dark-blue": "#0B1957",
+        "clear-blue": "#9ECCFA",
+        "white-blue": "#D1E8FF",
+      },
+    },
   },
   plugins: [],
-<<<<<<< HEAD
-=======
-  darkMode: "media",
->>>>>>> 7e772866067ea91492b9cedf3dbe931fcb9ae05b
 };
